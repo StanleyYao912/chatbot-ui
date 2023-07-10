@@ -351,11 +351,11 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
     <div className="relative flex-1 overflow-hidden bg-white dark:bg-[#343541]">
       {!(apiKey || serverSideApiKeyIsSet) ? (
         <div className="mx-auto flex h-full w-[300px] flex-col justify-center space-y-6 sm:w-[600px]">
-          <div className="text-center text-4xl font-bold text-black dark:text-white">
+          <div className="text-center text-4xl font-bold text-black dark:text-white mt=9">
             Welcome to Stanley&apos;s Chatbot UI
           </div>
           <div className="text-center text-lg text-black dark:text-white">
-            <div className="mb-8">{`Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`}</div>
+            <div className="mb-8">{`This Chatbot is an open-source project that represents the culmination of my AI learning journey. Its purpose is to push the boundaries of AI capabilities by harnessing the power of OpenAI&apos;s LLM through Langchain and Vector DB to embed data from the financial industry. As a result, users can access more up-to-date and comprehensive financial information during their interactions with ChatGPT, going beyond the confines of conventional chat. While the system is still a work in progress, it is currently partially functional. Enjoy the experience!`}</div>
             <div className="mb-2 font-bold">
               Important: Chatbot UI is 100% unaffiliated with OpenAI.
             </div>
