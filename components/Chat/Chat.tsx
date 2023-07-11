@@ -356,7 +356,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
           </div>
           <div className="text-center text-lg text-black dark:text-white">
             <div className="mb-8">{`
-This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, Langchain, and Vector DB to provide advanced AI capabilities and updated, comprehensive financial data. Beyond conventional chat, ChatGPT offers an evolving, partially functional system. Enjoy this immersive AI experience!`}</div>
+This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, Langchain, and Vector DB to provide advanced AI capabilities and updated, comprehensive financial data. Beyond conventional chatGPT, this bot is Working in Progress but partially functional. Enjoy the ride!`}</div>
             <div className="mb-2 font-bold">
               Important: Stanley Yao Chatbot is 100% unaffiliated with OpenAI.
             </div>
