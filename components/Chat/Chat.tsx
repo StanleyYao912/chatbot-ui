@@ -359,7 +359,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
 This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, Langchain, and Vector DB to provide advanced AI capabilities and updated, comprehensive financial data. Beyond conventional chatGPT, this bot is Working in Progress but partially functional. Enjoy the ride!`}</div>
             <div className="mb-2 font-bold">
               Also Try Another ChatBot you might like:  
-              <a href=" "
+              <a href="https://chatpdf-a.streamlit.app/"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
