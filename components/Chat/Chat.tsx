@@ -358,7 +358,14 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             <div className="mb-8">{`
 This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, Langchain, and Vector DB to provide advanced AI capabilities and updated, comprehensive financial data. Beyond conventional chatGPT, this bot is Working in Progress but partially functional. Enjoy the ride!`}</div>
             <div className="mb-2 font-bold">
-              Important: Stanley Yao Chatbot is 100% unaffiliated with OpenAI.
+              Also Try Another ChatBot you might like:  
+              <a href=" "
+                target="_blank"
+                rel="noreferrer"
+                className="text-blue-500 hover:underline"
+              >
+              Stanley Document Bot
+              </a >
             </div>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
