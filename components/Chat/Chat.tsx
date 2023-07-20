@@ -365,6 +365,7 @@ This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, 
                 className="text-blue-500 hover:underline"
               >
               Stanley Document Bot
+              </a >
               <a href="https://pirate.stan.cool/"
                 target="_blank"
                 rel="noreferrer"
