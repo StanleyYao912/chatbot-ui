@@ -354,7 +354,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
           <div className="text-center text-4xl font-bold text-black dark:text-white mt=9">
             Stanley Yao Chatbot for Finance
           </div>
-          <div className="text-center text-lg text-black dark:text-white">
+          <div className="text-center text-base text-black dark:text-white">
             <div className="mb-8">{`
 This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, Langchain, and Vector DB to provide advanced AI capabilities and updated, comprehensive financial data. Beyond conventional chatGPT, this bot is Working in Progress but partially functional. Enjoy the ride!`}</div>
             <div className="mb-2 font-bold">
