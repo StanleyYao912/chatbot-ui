@@ -375,6 +375,14 @@ This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, 
               >
               Funny Pirate Bot
               </a >
+              <br/>
+              <a href="https://bot.stan.cool/"
+                target="_blank"
+                rel="noreferrer"
+                className="text-blue-500 hover:underline"
+              >
+              It's Real Stanley
+              </a >
             </div>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
