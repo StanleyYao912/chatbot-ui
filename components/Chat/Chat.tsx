@@ -381,7 +381,7 @@ This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, 
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
               >
-              It's Real Stanley
+              Real Stanley
               </a >
             </div>
           </div>
