@@ -430,7 +430,7 @@ This open-source Chatbot, a milestone in my AI journey, harnesses OpenAI's LLM, 
                         <Spinner size="16px" className="mx-auto" />
                       </div>
                     ) : (
-                      'Chatbot UI'
+                      'Stanley Bot'
                     )}
                   </div>
 
